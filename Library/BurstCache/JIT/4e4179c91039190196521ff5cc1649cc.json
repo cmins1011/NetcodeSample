@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "UnityEngine.Vector3::Slerp_Injected",
+      "FullName": "UnityEngine.Vector3.Slerp_Injected(ref UnityEngine.Vector3 a, ref UnityEngine.Vector3 b, float t, ref UnityEngine.Vector3 ret) -> void_b8582670f79269075d32f191bad67123"
+    }
+  ]
+}

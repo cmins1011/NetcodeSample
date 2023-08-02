@@ -1,0 +1,8 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "UnityEngine.Quaternion::Slerp_Injected",
+      "FullName": "UnityEngine.Quaternion.Slerp_Injected(ref UnityEngine.Quaternion a, ref UnityEngine.Quaternion b, float t, ref UnityEngine.Quaternion ret) -> void_b8582670f79269075d32f191bad67123"
+    }
+  ]
+}
