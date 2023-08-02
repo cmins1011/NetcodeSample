@@ -401,6 +401,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Interaction.Toolkit.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Interaction.Toolkit.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Management.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Oculus.Editor.ref.dll"
@@ -414,6 +416,7 @@
 "Assets/Prefabs/NetworkManagerUI.cs"
 "Assets/Prefabs/NetworkMoveProvider.cs"
 "Assets/Prefabs/NetworkPlayer.cs"
+"Assets/Prefabs/NetworkStartup.cs"
 "Assets/Prefabs/PlayerNetwork.cs"
 -langversion:9.0
 
